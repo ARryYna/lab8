@@ -15,20 +15,20 @@ public class Main {
 
         int flag = 0;
 
-        someStrings.add("Hello");
-        someStrings.add("HowRU");
-        someStrings.add("Fine");
+        someStrings.add("Arynaa");
+        someStrings.add("Today");
+        someStrings.add("Excellent");
         someStrings.add("Thanks");
-        someStrings.add("Exams");
-        someStrings.add("Summer");
-        someStrings.add("Food");
-        someStrings.add("MoreFood");
+        someStrings.add("Christmas");
+        someStrings.add("Winter");
+        someStrings.add("Magazine");
+        someStrings.add("Shopping");
         someStrings.add("Hello");
-        someStrings.add("Summer");
-        someStrings.add("Autumn");
-        someStrings.add("Learning");
+        someStrings.add("Winter");
+        someStrings.add("Winter");
+        someStrings.add("Perfomance");
         someStrings.add("Night");
-        someStrings.add("Chill");
+        someStrings.add("Chillout");
 
         while(flag==0) {
             System.out.println(menu);
